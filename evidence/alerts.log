@@ -1,0 +1,4 @@
+[2026-09-28T09:11:31.707Z] [ALERT][R1-BRUTE-FORCE] 5 failed logins in 60s from ::1 -> ACTIVE RESPONSE: IP blocked 120s
+[2026-09-28T09:22:19.048Z] [ALERT][R2-ACCOUNT-COMPROMISE] successful login from ::1 after 8 failures - verify user
+[2026-09-28T09:40:10.725Z] [ALERT][R2-ACCOUNT-COMPROMISE] successful login from ::1 after 3 failures - verify user
+[2026-09-28T11:45:58.653Z] [ALERT][R1-BRUTE-FORCE] 5 failed logins in 60s from ::1 -> ACTIVE RESPONSE: IP blocked 120s

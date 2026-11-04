@@ -1,0 +1,27 @@
+[2026-09-28T09:11:31.493Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:11:31.557Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:11:31.601Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:11:31.659Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:11:31.706Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:11:31.707Z] [ALERT][R1-BRUTE-FORCE] 5 failed logins in 60s from ::1 -> ACTIVE RESPONSE: IP blocked 120s
+[2026-09-28T09:11:31.759Z] BLOCKED   src=::1 request rejected (auto-response active)
+[2026-09-28T09:11:31.807Z] BLOCKED   src=::1 request rejected (auto-response active)
+[2026-09-28T09:11:31.859Z] BLOCKED   src=::1 request rejected (auto-response active)
+[2026-09-28T09:22:18.102Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:22:18.136Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:22:18.167Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:22:19.047Z] LOGIN SUCCESS src=::1 user=victim@test.com
+[2026-09-28T09:40:09.387Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:40:09.421Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:40:09.448Z] LOGIN FAILED  src=::1 user=victim@test.com
+[2026-09-28T09:40:10.724Z] LOGIN SUCCESS src=::1 user=victim@test.com
+[2026-09-28T11:36:34.663Z] LOGIN FAILED  src=::1 user=-
+[2026-09-28T11:45:58.523Z] LOGIN FAILED  src=::1 user=u@test.com
+[2026-09-28T11:45:58.560Z] LOGIN FAILED  src=::1 user=u@test.com
+[2026-09-28T11:45:58.589Z] LOGIN FAILED  src=::1 user=u@test.com
+[2026-09-28T11:45:58.621Z] LOGIN FAILED  src=::1 user=u@test.com
+[2026-09-28T11:45:58.653Z] LOGIN FAILED  src=::1 user=u@test.com
+[2026-09-28T11:45:58.653Z] [ALERT][R1-BRUTE-FORCE] 5 failed logins in 60s from ::1 -> ACTIVE RESPONSE: IP blocked 120s
+[2026-09-28T11:45:58.685Z] BLOCKED   src=::1 request rejected (auto-response active)
+[2026-09-28T11:45:58.715Z] BLOCKED   src=::1 request rejected (auto-response active)
+[2026-09-28T11:45:58.745Z] BLOCKED   src=::1 request rejected (auto-response active)
